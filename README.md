@@ -28,10 +28,10 @@ I believe in open source: I publish my research code and enjoy contributing to o
 
 All repositories: [github.com/thiagodoregosousa](https://github.com/thiagodoregosousa)
 
-**R packages (on CRAN)**
+**R packages **
 
-- [**GEVStableGarch**](https://CRAN.R-project.org/package=GEVStableGarch) — ARMA-GARCH and ARMA-APARCH models with stable, GEV and GAt innovations: estimation, simulation, forecasting and Value-at-Risk. [docs](https://thiagodoregosousa.github.io/GEVStableGarch/) · [source](https://github.com/thiagodoregosousa/GEVStableGarch)
-- [**bgev**](https://CRAN.R-project.org/package=bgev) — bimodal GEV distribution: density, distribution function, quantiles, random variates and MLE. [docs](https://thiagodoregosousa.github.io/bgev/) · [source](https://github.com/thiagodoregosousa/bgev)
+- [**GEVStableGarch (on CRAN)**](https://CRAN.R-project.org/package=GEVStableGarch) — ARMA-GARCH and ARMA-APARCH models with stable, GEV and GAt innovations: estimation, simulation, forecasting and Value-at-Risk. [docs](https://thiagodoregosousa.github.io/GEVStableGarch/) · [source](https://github.com/thiagodoregosousa/GEVStableGarch)
+- [**bgev (on CRAN)**](https://CRAN.R-project.org/package=bgev) — bimodal GEV distribution: density, distribution function, quantiles, random variates and MLE. [docs](https://thiagodoregosousa.github.io/bgev/) · [source](https://github.com/thiagodoregosousa/bgev)
 - [**mbev**](https://github.com/thiagodoregosousa/mbev) — multimodal bivariate extreme value (MBEV) distribution (R).
 - [**cran_journey**](https://github.com/thiagodoregosousa/cran_journey) — a guide to making your first R package and getting it onto CRAN.
 
@@ -51,15 +51,14 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=1OgCOsQA
 - Sousa, Stelzer. *Moment-based estimation for the multivariate COGARCH(1,1) process.* Scand. J. Statistics 49 (2022).
 - Sousa, Haug, Klüppelberg. *Indirect inference for Lévy-driven continuous-time GARCH models.* Scand. J. Statistics 46 (2019).
 - Otiniano, Oliveira, Matsushita, Sousa. *Modeling multimodal bivariate extreme values: theory, estimation, and applications.* Commun. Nonlinear Sci. Numer. Simul. (2026).
-- Sousa. *Simulation-based estimation of time series and stochastic volatility processes.* PhD thesis, TUM (2019).
+
 
 ### Cryptography
 
 - Assis, Sousa. *Matrix polynomial attack on the Megrelishvili key exchange protocol.* IACR Communications in Cryptology 2(4) (2026).
-- Sousa, Neto. *Improved decryption bounds and key generation for matrix NTRU over integral domain.* SBSeg (2025).
-- Sousa, Neto. *Lattice basis reduction attack on matrix NTRU.* SBSeg (2024). 🏆 Best full paper in Cryptography.
-- Silva, Sousa, Souza Neto. *Cutting dimensions in the LLL attack for the ETRU post-quantum cryptosystem.* SBSeg (2024).
 - Lagrota, Neto, Sousa, Maia. *Optimizing ML-KEM with OpenMP: a multilevel parallelization study.* SBSeg (2026).
+- Sousa, Neto. *Lattice basis reduction attack on matrix NTRU.* SBSeg (2024). 🏆 Best full paper in Cryptography.
+
 
 ## Awards
 
